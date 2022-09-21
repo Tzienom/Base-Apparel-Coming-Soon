@@ -19,6 +19,8 @@ body {
     color: var(--Desaturated-Red);
 }
 
+/*.container { height: 100vh; }*/
+
 h1 {
     text-transform: uppercase;
     font-size: 2.25rem;
