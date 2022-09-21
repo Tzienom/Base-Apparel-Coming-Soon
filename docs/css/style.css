@@ -19,8 +19,6 @@ body {
     color: var(--Desaturated-Red);
 }
 
-.container { height: 100vh; }
-
 h1 {
     text-transform: uppercase;
     font-size: 2.25rem;
@@ -57,7 +55,6 @@ img {
     background: url("../images/bg-pattern-desktop.svg") no-repeat, linear-gradient(hsl(0, 0%, 100%), hsl(0, 100%, 98%));
     background-size: cover;
     height: 100%;
-/*    animation: slide-in-top 2s ease;*/
 }
 
 .col-1-text { animation: slide-in-top 2s ease; }

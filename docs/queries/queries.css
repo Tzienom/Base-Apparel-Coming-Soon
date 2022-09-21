@@ -48,6 +48,8 @@
         justify-content: space-between;
     }
     
+    .container { height: 100vh; }
+    
     .col-1-text, #figure-logo { padding-left: 5em; }
     
     .col-1-text, .col-2 #figure-img {
